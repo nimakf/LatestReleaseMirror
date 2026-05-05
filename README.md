@@ -157,5 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="schwabe--ics-openvpn"></div>
 
+### schwabe--ics-openvpn
+
+🔗 [source](https://github.com/schwabe/ics-openvpn) – [<code><small>v0.7.64</small></code>](https://github.com/schwabe/ics-openvpn/releases/tag/v0.7.64)
+
+| File | Size | Download |
+|------|------|----------|
+| `ics-openvpn-0.7.64.aab` | 82.8 MB | [⬇️ Download](https://raw.githubusercontent.com/nimakf/LatestReleaseMirror/main/releases/schwabe/ics-openvpn/ics-openvpn-0.7.64.aab) |
+| `ics-openvpn-0.7.64.apk` | 44.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nimakf/LatestReleaseMirror/main/releases/schwabe/ics-openvpn/ics-openvpn-0.7.64.apk) |
 <!-- RELEASES_END -->
