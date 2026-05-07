@@ -1,1 +1,1 @@
-ircfspace/teleMirror/releases
+ircfspace/teleMirror | tele-mirror-win-x64
