@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.15</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.15)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.15.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/nimakf/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.15.apk) |
 <!-- RELEASES_END -->
