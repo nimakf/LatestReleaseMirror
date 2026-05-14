@@ -1,1 +1,1 @@
-shirokhorshid/shirokhorshid-android
+Psiphon-Inc/psiphon-windows
