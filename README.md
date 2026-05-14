@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="shirokhorshid--shirokhorshid-android"></div>
 
-### shirokhorshid--shirokhorshid-android
-
-🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.14-8a28d0c</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c)
-
-| File | Size | Download |
-|------|------|----------|
-| `ShirOKhorshid-2026.05.14.apk` | 23.9 MB | [⬇️ Download](https://raw.githubusercontent.com/nimakf/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.14.apk) |
 <!-- RELEASES_END -->
